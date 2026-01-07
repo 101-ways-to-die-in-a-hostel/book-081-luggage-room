@@ -1,0 +1,33 @@
+{
+  "book_number": "081",
+  "title": "101 Ways to Die in a Hostel",
+  "subtitle": "Luggage Room",
+  "slug": "luggage-room",
+  "series": "101 Ways to Die in a Hostel",
+  "author": {
+    "name": "Jonathan ANDERSON",
+    "bio": "",
+    "website": ""
+  },
+  "tagline": "Some hostels are a bargain. Others cost you your life.",
+  "synopsis": {
+    "short": "",
+    "long": ""
+  },
+  "death_type": "Luggage Room",
+  "release_date": "",
+  "status": "draft",
+  "prices": {
+    "ebook": 4.99,
+    "paperback": 14.99,
+    "audiobook": 19.99
+  },
+  "purchase_links": {
+    "amazon_kindle": "",
+    "amazon_paperback": "",
+    "apple_books": "",
+    "google_play": "",
+    "audible": "",
+    "kobo": ""
+  }
+}
