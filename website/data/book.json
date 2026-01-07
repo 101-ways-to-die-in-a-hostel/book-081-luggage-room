@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A perfectionist traveler, locked in the overcrowded luggage storage room during a busy check-in rush, slowly suffocates as suitcases shift and compress the diminishing air space.",
     "long": ""
   },
   "death_type": "Luggage Room",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "She had it all packed. Except an exit strategy."
 }
